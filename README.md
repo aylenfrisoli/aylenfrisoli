@@ -66,9 +66,3 @@ Soy una **Frontend Developer** con una sólida formación en desarrollo web, dis
 - Desarrollo de componentes reutilizables y optimización de la carga.
 
 ---
-
-## 📊 Mis Estadísticas en GitHub
-
-Aquí puedes ver mi actividad y contribuciones en la plataforma.
-
-[![Estadísticas de GitHub de Aylén](https://github-readme-stats.vercel.app/api?username=aylenfrisoli&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
