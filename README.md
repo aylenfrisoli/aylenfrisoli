@@ -1,24 +1,28 @@
-# ¡Hola! Soy Aylén Frísoli 👋
+# Hola! Soy Aylén 🌻🤓
 
 <p align="center">
   <a href="https://trece.ar/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Mi_Portfolio-trece.ar-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Mi Portfolio-3B82F6?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/aylen-frisoli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aylén_Frísoli-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="mailto:aylen@trece.ar">
-    <img src="https://img.shields.io/badge/Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Contáctame-EF4444?style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
 ## Sobre Mí
 
-Soy una **Frontend Developer** con formación en desarrollo web, diseño responsive y maquetación **Mobile First**. Me apasiona crear soluciones accesibles y funcionales, poniendo siempre la experiencia del usuario en primer lugar. Disfruto involucrarme en cada etapa del desarrollo, desde el diseño hasta la implementación, y valoro el aprendizaje continuo y la colaboración en equipo.
+Como **Frontend Developer**, mi pasión es construir puentes entre las personas y la tecnología. Valoro el aprendizaje continuo y la colaboración para crear soluciones funcionales donde la experiencia del usuario es la prioridad.
 
-- 🔭 Actualmente trabajo como desarrolladora freelance en **[TreceAR](https://trece.ar)**.
-- 🌱 Estoy cursando la Licenciatura en Psicología, explorando la conexión entre la tecnología y el comportamiento humano.
-- 💬 Me encantaría hablar sobre desarrollo frontend, diseño UX/UI y nuevas tecnologías.
+✨ Esta visión me ha llevado a tener un pie en la psicología y otro en el código.
+
+🌱 Actualmente, curso la Licenciatura en Psicología para profundizar en esta conexión y sigo perfeccionando mis habilidades en el desarrollo Front-End.
+
+🔭 Aplico esta sinergia como Desarrolladora en TreceAR, donde construyo interfaces intuitivas y accesibles.
+
+💬 Me encanta conversar sobre desarrollo, diseño UX/UI y la fascinante intersección entre la tecnología y el comportamiento humano.
 
 ---
 
@@ -38,31 +42,51 @@ Soy una **Frontend Developer** con formación en desarrollo web, diseño respons
 </p>
 <p align="left">
   <strong>Herramientas y Entornos:</strong><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" alt="GitKraken"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 ---
 
 ## 💻 Proyectos Destacados
 
-### 🔹 [turnitos.app](https://turnitos.app) - Sitio Web y Plataforma SaaS para Gestión de Turnos
-- **Maquetación de interfaz** fluida y adaptable con **Tailwind CSS**.
-- Implementación de componentes interactivos con **Blade**.
-- Coordinación con backend en **Laravel** y panel administrativo en **Filament**.
-- Control de versiones con **Git/GitHub** y desarrollo en entorno local con **Docker**.
+### 🔹 [turnitos.app](https://turnitos.app) - Plataforma SaaS para Gestión de Turnos
+- **Diseñé y maqueté** la interfaz con **Tailwind CSS**, enfocada en la claridad y fluidez.
+- **Implementé** componentes interactivos y vistas clave con **Blade**.
+- **Coordiné** con el equipo de backend (Laravel) para la integración de la lógica.
+- **Gestioné** el control de versiones con Git/GitHub en un entorno local con Docker.
 
-### 🔹 Brújula Plutónica - Sitio Web de Astrología
-- **Maquetación responsiva** con **Blade y Tailwind CSS** para una estética cálida y armónica.
-- Colaboración en el desarrollo de un **CMS personalizado con Filament** para la gestión autónoma de contenidos.
+### 🔹 [Brújula Plutónica](https://brujulaplutonica.com) - Sitio Web de Astrología
+- **Maqueté** el sitio con un diseño responsivo en **Blade y Tailwind CSS**.
+- **Colaboré** en el desarrollo de un CMS personalizado en **Filament** para la gestión de contenidos.
+- **Aporté** en la definición de la estructura para mejorar la experiencia de navegación y el SEO.
 
-### 🔹 [trece.ar](https://trece.ar) - Sitio Web Agencia Digital
-- **Diseño visual** y estructuración de contenidos.
-- **Maquetación Mobile First** con **HTML5, CSS3 y Bootstrap**.
-- Desarrollo de componentes reutilizables y optimización de la carga.
+### 🔹 [TreceAR](https://trece.ar) - Sitio Web de Agencia Digital
+- **Lideré** el diseño visual completo: desde la estructura hasta la paleta cromática y tipografía.
+- **Desarrollé** el sitio con un enfoque **Mobile First**, utilizando HTML5, CSS3 y Bootstrap.
+- **Implementé** componentes reutilizables y optimicé la carga y las transiciones.
 
 ---
+
+## 🎓 Formación Académica
+
+- **Licenciatura en Psicología** | *Fundación Barceló*
+  - En curso desde feb. 2024
+
+- **Carrera Frontend Developer** | *Platzi*
+  - Finalizado nov. 2024
+  - **Certificaciones destacadas:**
+    - Frontend Developer, CSS Grid Layout y Flexbox
+    - Responsive Design: Maquetación Mobile First
+    - Diseño Web con CSS Grid y Flexbox
+    - HTML y CSS, Sass y Landing Pages
+
+- **Desarrollo Web** | *CoderHouse*
+  - Finalizado nov. 2023
