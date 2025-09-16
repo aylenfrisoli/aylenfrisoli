@@ -62,12 +62,12 @@ Actualmente, como Desarrolladora en **TreceAR**, me especializo en la construcci
 - **Colaboro** en el desarrollo y la mejora continua del CMS personalizado en **Filament**.
 - **Actualmente participo** en la evolución y mantenimiento del proyecto.
 
-### 🔹 [mieltostadores.com](https://mieltostadores.com) - E-commerce de Marca con Propósito
+### 🔹 [mieltostadores.com](https://mieltostadores.com) - Sitio Web de Cafe de Especialidad
 - **Lideré** el diseño y la maquetación de la interfaz con **Tailwind CSS**, creando una experiencia visual inmersiva que cuenta la historia de la marca.
 - **Implementé** componentes interactivos a medida con **Alpine.js**, como carruseles de productos y donaciones, para mejorar el engagement del usuario.
 - **Aseguré** un diseño **100% responsivo** enfocado en el storytelling y la conexión emocional con el cliente.
 
-### 🔹 [turnitos.app](https://turnitos.app) - Plataforma SaaS para Gestión de Turnos
+### 🔹 [turnitos.app](https://turnitos.app) - Frontend Estratégico para SaaS de Turnos
 - **Diseñé y maqueté** la interfaz con **Tailwind CSS**, enfocada en la claridad y fluidez.
 - **Implementé** componentes interactivos y vistas clave con **Blade**.
 - **Coordiné** con el equipo de backend (Laravel) para la integración de la lógica.
