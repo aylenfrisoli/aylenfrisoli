@@ -14,15 +14,9 @@
 
 ## Sobre Mí
 
-Como **Frontend Developer**, mi pasión es construir puentes entre las personas y la tecnología. Valoro el aprendizaje continuo y la colaboración para crear soluciones funcionales donde la experiencia del usuario es la prioridad.
+Como **Frontend Developer**, mi pasión es construir puentes entre las personas y la tecnología, creando soluciones funcionales donde la experiencia del usuario es la prioridad.
 
-✨ Esta visión me ha llevado a tener un pie en la psicología y otro en el código.
-
-🌱 Actualmente, curso la Licenciatura en Psicología para profundizar en esta conexión y sigo perfeccionando mis habilidades en el desarrollo Front-End.
-
-🔭 Aplico esta sinergia como Desarrolladora en TreceAR, donde construyo interfaces intuitivas y accesibles.
-
-💬 Me encanta conversar sobre desarrollo, diseño UX/UI y la fascinante intersección entre la tecnología y el comportamiento humano.
+Actualmente, como Desarrolladora en **TreceAR**, me especializo en la construcción de interfaces intuitivas, accesibles y de alto rendimiento. Me encanta conversar sobre desarrollo, diseño UX/UI y cómo una interfaz bien construida puede impactar positivamente en la experiencia del usuario.
 
 ---
 
@@ -57,28 +51,36 @@ Como **Frontend Developer**, mi pasión es construir puentes entre las personas 
 
 ## 💻 Proyectos Destacados
 
+### 🔹 [Constructora Atlántica](https://constructoraatlantica.com) - Rediseño de Sitio Web Corporativo
+- **Lidero** el rediseño integral del sitio, con el objetivo de modernizar la marca, optimizar la experiencia móvil y transformarlo en una herramienta eficaz para la captación de clientes.
+- **Me enfoco** en mejorar drásticamente el rendimiento y la velocidad de carga, implementando una **nueva galería de proyectos interactiva** para exhibir su trabajo de forma profesional.
+- **Maqueto** toda la interfaz con **Tailwind CSS**, aplicando un enfoque **Mobile First** para garantizar una visualización perfecta en cualquier dispositivo.
+- **Participo activamente** en la evolución y mantenimiento continuo del proyecto.
+
+### 🔹 [Brújula Plutónica](https://brujulaplutonica.com) - Sitio Web de Astrología
+- **Maqueto** el sitio con un diseño responsivo en **Blade y Tailwind CSS**.
+- **Colaboro** en el desarrollo y la mejora continua del CMS personalizado en **Filament**.
+- **Actualmente participo** en la evolución y mantenimiento del proyecto.
+
+### 🔹 [mieltostadores.com](https://mieltostadores.com) - E-commerce de Marca con Propósito
+- **Lideré** el diseño y la maquetación de la interfaz con **Tailwind CSS**, creando una experiencia visual inmersiva que cuenta la historia de la marca.
+- **Implementé** componentes interactivos a medida con **Alpine.js**, como carruseles de productos y donaciones, para mejorar el engagement del usuario.
+- **Aseguré** un diseño **100% responsivo** enfocado en el storytelling y la conexión emocional con el cliente.
+
 ### 🔹 [turnitos.app](https://turnitos.app) - Plataforma SaaS para Gestión de Turnos
 - **Diseñé y maqueté** la interfaz con **Tailwind CSS**, enfocada en la claridad y fluidez.
 - **Implementé** componentes interactivos y vistas clave con **Blade**.
 - **Coordiné** con el equipo de backend (Laravel) para la integración de la lógica.
-- **Gestioné** el control de versiones con Git/GitHub en un entorno local con Docker.
-
-### 🔹 [Brújula Plutónica](https://brujulaplutonica.com) - Sitio Web de Astrología
-- **Maqueté** el sitio con un diseño responsivo en **Blade y Tailwind CSS**.
-- **Colaboré** en el desarrollo de un CMS personalizado en **Filament** para la gestión de contenidos.
-- **Aporté** en la definición de la estructura para mejorar la experiencia de navegación y el SEO.
 
 ### 🔹 [TreceAR](https://trece.ar) - Sitio Web de Agencia Digital
 - **Lideré** el diseño visual completo: desde la estructura hasta la paleta cromática y tipografía.
 - **Desarrollé** el sitio con un enfoque **Mobile First**, utilizando HTML5, CSS3 y Bootstrap.
 - **Implementé** componentes reutilizables y optimicé la carga y las transiciones.
 
+
 ---
 
 ## 🎓 Formación Académica
-
-- **Licenciatura en Psicología** | *Fundación Barceló*
-  - En curso desde feb. 2024
 
 - **Carrera Frontend Developer** | *Platzi*
   - Finalizado nov. 2024
