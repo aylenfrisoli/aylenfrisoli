@@ -1,26 +1,30 @@
-# Hola! Soy Aylén 🌻🤓
+# ¡Hola! Soy Aylén 🌻
 
-<p align="center">
-  <a href="https://trece.ar/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Mi Portfolio-3B82F6?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aylen-frisoli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aylen@trece.ar">
-    <img src="https://img.shields.io/badge/Contáctame-EF4444?style=for-the-badge" alt="Email"/>
-  </a>
+<p align="center"> 
+  <a href="https://trece.ar/portfolio" target="_blank"> 
+    <img src="https://img.shields.io/badge/Mi Portfolio-3B82F6?style=for-the-badge" alt="Portfolio"/> 
+  </a> 
+  <a href="https://www.linkedin.com/in/aylen-frisoli/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/> 
+  </a> 
+  <a href="mailto:aylen@trece.ar"> 
+    <img src="https://img.shields.io/badge/Contáctame-EF4444?style=for-the-badge" alt="Email"/> 
+  </a> 
 </p>
 
 ## Sobre Mí
 
-Como **Frontend Developer**, mi pasión es construir puentes entre las personas y la tecnología, creando soluciones funcionales donde la experiencia del usuario es la prioridad.
+Soy Maquetadora Web especializada en transformar ideas en interfaces dinámicas y adaptables. Mi enfoque principal es garantizar una experiencia de usuario intuitiva y memorable.
 
-Actualmente, como Desarrolladora en **TreceAR**, me especializo en la construcción de interfaces intuitivas, accesibles y de alto rendimiento. Me encanta conversar sobre desarrollo, diseño UX/UI y cómo una interfaz bien construida puede impactar positivamente en la experiencia del usuario.
+Para mí, cada proyecto es más que un conjunto de código; es la oportunidad de resolver un problema real. Disfruto el desafío de encontrar el equilibrio perfecto entre una estética atractiva y una funcionalidad impecable.
+
+Actualmente, estoy enfocada en profundizar mis conocimientos en JavaScript y sus frameworks modernos para dominar la creación de experiencias web completamente interactivas.
+
+Desde 2023, soy co-fundadora de TreceAR, mi emprendimiento digital. Junto a mi socio, me dedico a construir productos técnicamente sólidos, colaborando en cada etapa para asegurar que el resultado final sea efectivo y de alta calidad.
 
 ---
 
-## 🚀 Mis Habilidades Técnicas
+## Mis Habilidades Técnicas
 
 <p align="left">
   <strong>Lenguajes y Maquetación:</strong><br>
@@ -49,41 +53,43 @@ Actualmente, como Desarrolladora en **TreceAR**, me especializo en la construcci
 
 ---
 
-## 💻 Proyectos Destacados
+## Mis Colaboraciones
 
-### 🔹 [Constructora Atlántica](https://constructoraatlantica.com) - Rediseño de Sitio Web Corporativo
-- **Lidero** el rediseño integral del sitio, con el objetivo de modernizar la marca, optimizar la experiencia móvil y transformarlo en una herramienta eficaz para la captación de clientes.
-- **Me enfoco** en mejorar drásticamente el rendimiento y la velocidad de carga, implementando una **nueva galería de proyectos interactiva** para exhibir su trabajo de forma profesional.
-- **Maqueto** toda la interfaz con **Tailwind CSS**, aplicando un enfoque **Mobile First** para garantizar una visualización perfecta en cualquier dispositivo.
-- **Participo activamente** en la evolución y mantenimiento continuo del proyecto.
+### 🔹 [Constructora Atlántica](https://constructoraatlantica.com) - Rediseño de Sitio Web Corporativo (En Proceso)
+* Actualmente **lidero** el rediseño integral del sitio, con el objetivo de modernizar la marca y optimizar la experiencia móvil para la captación de clientes.
+* **Mi foco está** en mejorar drásticamente el rendimiento, implementando una **nueva galería de proyectos interactiva**.
+* **Estoy maquetando** la interfaz con **Tailwind CSS** bajo un enfoque **Mobile First** para garantizar una visualización perfecta en cualquier dispositivo.
+* **Participo activamente** en la evolución y mantenimiento continuo del proyecto.
 
 ### 🔹 [Brújula Plutónica](https://brujulaplutonica.com) - Sitio Web de Astrología
-- **Maqueto** el sitio con un diseño responsivo en **Blade y Tailwind CSS**.
-- **Colaboro** en el desarrollo y la mejora continua del CMS personalizado en **Filament**.
-- **Actualmente participo** en la evolución y mantenimiento del proyecto.
+* **Maqueté** el sitio con un diseño totalmente responsivo.
+* **Colaboré** en la mejora continua del CMS personalizado, desarrollado en **Filament**.
+* **Participé** activamente en la evolución y el mantenimiento del proyecto.
 
-### 🔹 [mieltostadores.com](https://mieltostadores.com) - Sitio Web de Cafe de Especialidad
-- **Lideré** el diseño y la maquetación de la interfaz con **Tailwind CSS**, creando una experiencia visual inmersiva que cuenta la historia de la marca.
-- **Implementé** componentes interactivos a medida con **Alpine.js**, como carruseles de productos y donaciones, para mejorar el engagement del usuario.
-- **Aseguré** un diseño **100% responsivo** enfocado en el storytelling y la conexión emocional con el cliente.
+### 🔹 [mieltostadores.com](https://mieltostadores.com) - Landing Page de Café de Especialidad
+* **Lideré** el diseño y la maquetación de la interfaz, creando una experiencia visual inmersiva centrada en la historia de la marca.
+* **Implementé** componentes interactivos a medida con **Alpine.js**, como carruseles de productos y sistemas de donaciones, para mejorar el engagement.
+* **Aseguré** un diseño **100% responsivo** enfocado en el storytelling y la conexión emocional con el cliente.
 
-### 🔹 [turnitos.app](https://turnitos.app) - Frontend Estratégico para SaaS de Turnos
-- **Diseñé y maqueté** la interfaz con **Tailwind CSS**, enfocada en la claridad y fluidez.
-- **Implementé** componentes interactivos y vistas clave con **Blade**.
-- **Coordiné** con el equipo de backend (Laravel) para la integración de la lógica.
+### 🔹 [turnitos.app](https://turnitos.app) - Sitio Web para SaaS de Turnos
+* **Diseñé y maqueté** la interfaz de usuario, centrándome en la claridad, la fluidez y la facilidad de uso.
+* **Implementé** componentes interactivos y vistas clave de la aplicación.
+* **Coordiné** con el equipo de backend (Laravel) para una integración eficiente de la lógica del negocio.
 
-### 🔹 [TreceAR](https://trece.ar) - Sitio Web de Agencia Digital
-- **Lideré** el diseño visual completo: desde la estructura hasta la paleta cromática y tipografía.
-- **Desarrollé** el sitio con un enfoque **Mobile First**, utilizando HTML5, CSS3 y Bootstrap.
-- **Implementé** componentes reutilizables y optimicé la carga y las transiciones.
-
+### 🔹 [TreceAR](https://trece.ar) - Sitio Web de Mi Agencia Digital
+* **Lideré** el diseño visual completo del sitio web, desde la arquitectura de la información hasta la paleta cromática y la tipografía.
+* **Desarrollé** el frontend con un enfoque **Mobile First**, garantizando una experiencia de usuario óptima en todos los dispositivos.
+* **Implementé** un sistema de componentes reutilizables y optimicé los tiempos de carga.
 
 ---
 
-## 🎓 Formación Académica
+## Formación Académica
+
+- **Carrera Frontend Developer** | *ADA ITW*
+  - *oct. 2025 - presente*
 
 - **Carrera Frontend Developer** | *Platzi*
-  - Finalizado nov. 2024
+  - *Finalizado nov. 2024*
   - **Certificaciones destacadas:**
     - Frontend Developer, CSS Grid Layout y Flexbox
     - Responsive Design: Maquetación Mobile First
@@ -91,4 +97,4 @@ Actualmente, como Desarrolladora en **TreceAR**, me especializo en la construcci
     - HTML y CSS, Sass y Landing Pages
 
 - **Desarrollo Web** | *CoderHouse*
-  - Finalizado nov. 2023
+  - *Finalizado nov. 2023*
