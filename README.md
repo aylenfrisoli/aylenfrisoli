@@ -55,7 +55,7 @@ Desde 2023, soy co-fundadora de TreceAR, mi emprendimiento digital. Junto a mi s
 
 ## Mis Colaboraciones
 
-### 🔹 [Constructora Atlántica](https://constructoraatlantica.com) - Rediseño de Sitio Web Corporativo (En Proceso)
+### 🔹 [Constructora Atlántica](https://constructoraatlantica.com.ar) - Rediseño de Sitio Web Corporativo (En Proceso)
 * Actualmente **lidero** el rediseño integral del sitio, con el objetivo de modernizar la marca y optimizar la experiencia móvil para la captación de clientes.
 * **Mi foco está** en mejorar drásticamente el rendimiento, implementando una **nueva galería de proyectos interactiva**.
 * **Estoy maquetando** la interfaz con **Tailwind CSS** bajo un enfoque **Mobile First** para garantizar una visualización perfecta en cualquier dispositivo.
@@ -66,7 +66,7 @@ Desde 2023, soy co-fundadora de TreceAR, mi emprendimiento digital. Junto a mi s
 * **Colaboré** en la mejora continua del CMS personalizado, desarrollado en **Filament**.
 * **Participé** activamente en la evolución y el mantenimiento del proyecto.
 
-### 🔹 [mieltostadores.com](https://mieltostadores.com) - Landing Page de Café de Especialidad
+### 🔹 [Miel Tostadores](https://mieltostadores.com) - Landing Page de Café de Especialidad
 * **Lideré** el diseño y la maquetación de la interfaz, creando una experiencia visual inmersiva centrada en la historia de la marca.
 * **Implementé** componentes interactivos a medida con **Alpine.js**, como carruseles de productos y sistemas de donaciones, para mejorar el engagement.
 * **Aseguré** un diseño **100% responsivo** enfocado en el storytelling y la conexión emocional con el cliente.
