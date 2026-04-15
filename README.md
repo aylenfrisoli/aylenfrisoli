@@ -55,6 +55,11 @@ Desde 2023, soy co-fundadora de TreceAR, mi emprendimiento digital. Junto a mi s
 
 ## Mis Colaboraciones
 
+### 🔹 [Miel Tostadores](https://mieltostadores.com) - E-commerce de Café de Especialidad (En Proceso)
+* **Desarrollo** la interfaz completa de la tienda online, enfocándome en diseñar un flujo de compra (checkout) fluido, premium y de alta conversión.
+* **Implemento** vistas dinámicas y componentes reactivos utilizando **Tailwind CSS, Livewire y Alpine.js**, gestionando carritos interactivos, selección de variantes y pasarelas de pago (Mercado Pago).
+* **Diseño** una experiencia de usuario (UX) empática para el panel de clientes, optimizando la visualización de estados de pedidos, seguimiento de envíos y procesos de reembolsos.
+
 ### 🔹 [Constructora Atlántica](https://constructoraatlantica.com.ar) - Rediseño de Sitio Web Corporativo (En Proceso)
 * Actualmente **lidero** el rediseño integral del sitio, con el objetivo de modernizar la marca y optimizar la experiencia móvil para la captación de clientes.
 * **Mi foco está** en mejorar drásticamente el rendimiento, implementando una **nueva galería de proyectos interactiva**.
@@ -87,6 +92,9 @@ Desde 2023, soy co-fundadora de TreceAR, mi emprendimiento digital. Junto a mi s
 
 - **Carrera Frontend Developer** | *ADA ITW*
   - *oct. 2025 - presente*
+
+- **Carrera Backend Developer** | *ADA ITW*
+  - *feb. 2026 - presente*
 
 - **Carrera Frontend Developer** | *Platzi*
   - *Finalizado nov. 2024*
