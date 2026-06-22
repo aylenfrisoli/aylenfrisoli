@@ -66,13 +66,6 @@ Desde 2023, soy co-fundadora de TreceAR, mi emprendimiento digital. Junto a mi s
 * **Implemento** vistas dinámicas y componentes reactivos utilizando **Tailwind CSS, Livewire y Alpine.js**, gestionando carritos interactivos, selección de variantes y pasarelas de pago (Mercado Pago).
 * **Diseño** una experiencia de usuario (UX) empática para el panel de clientes, optimizando la visualización de estados de pedidos, seguimiento de envíos y procesos de reembolsos.
 
-### 🔹 [Constructora Atlántica](https://constructoraatlantica.com.ar) - Rediseño de Sitio Web Corporativo (En Proceso)
-
-* Actualmente **lidero** el rediseño integral del sitio, con el objetivo de modernizar la marca y optimizar la experiencia móvil para la captación de clientes.
-* **Mi foco está** en mejorar drásticamente el rendimiento, implementando una **nueva galería de proyectos interactiva**.
-* **Estoy maquetando** la interfaz con **Tailwind CSS** bajo un enfoque **Mobile First** para garantizar una visualización perfecta en cualquier dispositivo.
-* El sitio web que se encuentra online actualmente fue desarrollado por terceros. Me encuentro trabajando exclusivamente en la **nueva versión desde cero**, que pronto reemplazará a la actual.
-
 ### 🔹 [Brújula Plutónica](https://brujulaplutonica.com) - Sitio Web de Astrología
 * **Maqueté** el sitio con un diseño totalmente responsivo.
 * **Colaboré** en la mejora continua del CMS personalizado, desarrollado en **Filament**.
