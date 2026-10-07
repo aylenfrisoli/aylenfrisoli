@@ -61,10 +61,20 @@ Desde 2023, soy co-fundadora de TreceAR, mi emprendimiento digital. Junto a mi s
 
 ## Mis Colaboraciones
 
-### 🔹 [Miel Tostadores](https://mieltostadores.com) - E-commerce de Café de Especialidad (En Proceso)
-* **Desarrollo** la interfaz completa de la tienda online, enfocándome en diseñar un flujo de compra (checkout) fluido, premium y de alta conversión.
+### 🔹 [Hilding Ohlsson Propiedades](https://hildingohlsson.ar/) - Sitio Web Inmobiliario (En Proceso)
+* **Diseño y maquetación** integral del frontend de la inmobiliaria, abarcando desde la *Home* y la ficha detallada de propiedad hasta las vistas de operaciones inmobiliarias.
+* **Implemento** las interfaces y flujos de inicio de sesión (*login*) y autenticación tanto para usuarios como para administradores.
+* **Integro** la maquetación con el backend, asegurando una navegación fluida, respuestas dinámicas y una experiencia centrada en la búsqueda y gestión de inmuebles.
+
+### 🔹 [Miel Tostadores](https://mieltostadores.com) - E-commerce de Café de Especialidad
+* **Desarrollo** la interfaz completa de la tienda online, enfocándome en diseñar un flujo de compra (*checkout*) fluido, premium y de alta conversión.
 * **Implemento** vistas dinámicas y componentes reactivos utilizando **Tailwind CSS, Livewire y Alpine.js**, gestionando carritos interactivos, selección de variantes y pasarelas de pago (Mercado Pago).
 * **Diseño** una experiencia de usuario (UX) empática para el panel de clientes, optimizando la visualización de estados de pedidos, seguimiento de envíos y procesos de reembolsos.
+
+### 🔹 [Constructora Atlántica](https://constructoraatlantica.com.ar/) - Rediseño Web y Dashboard de Autogestión
+* **Lideré el rediseño** completo de la plataforma web, modernizando una interfaz desactualizada (2020) hacia un diseño contemporáneo, accesible y alineado a los estándares actuales de UX/UI.
+* **Participé en la arquitectura** y maquetación del dashboard de autogestión para clientes, permitiéndoles administrar sus proyectos de forma autónoma.
+* **Optimicé** la estructura de navegación y la maquetación responsiva para transmitir solidez de marca y mejorar la experiencia del usuario.
 
 ### 🔹 [Brújula Plutónica](https://brujulaplutonica.com) - Sitio Web de Astrología
 * **Maqueté** el sitio con un diseño totalmente responsivo.
@@ -73,8 +83,8 @@ Desde 2023, soy co-fundadora de TreceAR, mi emprendimiento digital. Junto a mi s
 
 ### 🔹 [Miel Tostadores](https://mieltostadores.com) - Landing Page de Café de Especialidad
 * **Lideré** el diseño y la maquetación de la interfaz, creando una experiencia visual inmersiva centrada en la historia de la marca.
-* **Implementé** componentes interactivos a medida con **Alpine.js**, como carruseles de productos y sistemas de donaciones, para mejorar el engagement.
-* **Aseguré** un diseño **100% responsivo** enfocado en el storytelling y la conexión emocional con el cliente.
+* **Implementé** componentes interactivos a medida con **Alpine.js**, como carruseles de productos y sistemas de donaciones, para mejorar el *engagement*.
+* **Aseguré** un diseño **100% responsivo** enfocado en el *storytelling* y la conexión emocional con el cliente.
 
 ### 🔹 [turnitos.app](https://turnitos.app) - Sitio Web para SaaS de Turnos
 * **Diseñé y maqueté** la interfaz de usuario, centrándome en la claridad, la fluidez y la facilidad de uso.
