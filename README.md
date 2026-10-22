@@ -1,20 +1,7 @@
 # Hola! Soy Aylu 🌻
 
-<p align="center">
-  <a href="https://trece.ar/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Mi%20Portfolio-3B82F6?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aylen-frisoli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aylen@trece.ar">
-    <img src="https://img.shields.io/badge/Contáctame-EF4444?style=for-the-badge" alt="Email"/>
-  </a>
-</p>
-
 ## 
 Soy **frontend developer con foco en producto**: construyo interfaces que se entienden rápido, se ven bien en cualquier pantalla y están pensadas para convertir. Desde 2023 co-fundo **TreceAR**, donde lidero diseño, maquetación y parte del desarrollo de sitios, e-commerce y SaaS junto a mi socio.
-
 
 ---
 
@@ -75,6 +62,19 @@ Soy **frontend developer con foco en producto**: construyo interfaces que se ent
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://trece.ar/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Mi%20Portfolio-3B82F6?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aylen-frisoli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aylen@trece.ar">
+    <img src="https://img.shields.io/badge/Contáctame-EF4444?style=for-the-badge" alt="Email"/>
+  </a>
+</p>
+
 
 ## Experiencia destacada
 
