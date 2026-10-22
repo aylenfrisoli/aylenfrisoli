@@ -15,7 +15,6 @@
 ## 
 Soy **frontend developer con foco en producto**: construyo interfaces que se entienden rápido, se ven bien en cualquier pantalla y están pensadas para convertir. Desde 2023 co-fundo **TreceAR**, donde lidero diseño, maquetación y parte del desarrollo de sitios, e-commerce y SaaS junto a mi socio.
 
-Hoy profundizo en **JavaScript moderno y arquitectura full-stack** para pasar de maquetar pantallas a diseñar sistemas completos.
 
 ---
 
